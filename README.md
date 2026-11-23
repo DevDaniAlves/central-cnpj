@@ -30,5 +30,11 @@ Usuario Nao autenticado;
 Atualização cadastral, 
 Novo Cadastro;
 
+Vejo tambem como importante ponto de arquitetura 2 detalhes:
+
+Auditoria de quem criou editou ou solicitou os dados, de maneira que seja rastreavel e saibamos que está usando ou manipulando os dados (no caso que solicita a atulaizção dos dados já que nesse projeto nao é possivel alterar manualmente);
+
+E tambem haveria de ter uma opção para que um cidadao ou um usuario do sistema pudesse solicitar a remoção de todos os dados que competem a ele de maneira definitiva como definido pela lgpd
+
 
 Ademais apresento essa tentativa tecnica de uso do php para entregar o projeto, infelizmente nao compreende meu dominio em tecnologia então pouco foi executado;
